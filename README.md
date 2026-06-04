@@ -26,8 +26,8 @@ No external libraries are required.
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/todo-cli.git
-cd todo-cli
+https://github.com/Sazid72/Python-CLI-Todo-List.git
+cd todo-cl
 ```
 
 Run the program:
